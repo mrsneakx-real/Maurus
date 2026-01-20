@@ -1,6 +1,6 @@
 # What is Maurus?
 
-Maurus is an app designed to run in the background. It's primarily there to annoy you as mutch as possible. For example there can be popups that you can't click away or random apps can open.<br>
+Maurus is an app designed to run in the background. It's primarily there to annoy you as mutch as possible.<br>
 Maurus runs on it's own packaged Java 25. This also means that no JDK/JRE must be installed.
 A list of the functions can be found below.
 
@@ -9,9 +9,19 @@ A list of the functions can be found below.
 Maurus-1.0.exe will soon be available!
 Due to some major bugs, earlier versions of Maurus will not be available.
 
+---
 
-On the *dev* branch is the curren version that's under development.<br>
-On the *main* branch you'll find the newest downloadable version.
+# Features
+
+- Run random Task.<br>
+- Use the Cpu for floatpoint calculations.<br>
+- Open a random App.<br>
+- Display bouncing Joe Biden/Donald Trump windows.<br>
+- Cause bluescreen.<br>
+- Block all keyboard/mouse inputs for a random amount of times.<br>
+- Ask extremly difficult questiond.<br>
+- Display fake Windows Defender toasts.<br>
+- Display Alain Berset memes.<br>
 
 ---
 
